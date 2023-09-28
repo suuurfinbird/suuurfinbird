@@ -1,7 +1,6 @@
-## Hi, I'm Arsenii Makarik 🐣🐥
+## 🐤 Hi, I'm Arsenii Makarik 🐣🐥
 
-![github-header-image (5)](https://github.com/suuurfinbird/suuurfinbird/assets/145972187/c8868f2d-a990-4c1e-a353-c887562193bb)
-
+![github-header-image (13)](https://github.com/suuurfinbird/suuurfinbird/assets/145972187/f2f55d84-eb6a-4ecf-b9d8-f0781eb7a705)
 
 
 🔭 I’m currently working at @avgust.com
