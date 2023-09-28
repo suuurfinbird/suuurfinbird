@@ -1,6 +1,7 @@
 # Hi, I'm Arsenii Makarik 🐣🐥
 
-![github-header-image (1)](https://github.com/suuurfinbird/suuurfinbird/assets/145972187/735fc66f-32d6-43f3-9d37-e90969afee6d)
+![github-header-image (2)](https://github.com/suuurfinbird/suuurfinbird/assets/145972187/1808188d-a6eb-4cca-94f0-2a700c6469c7)
+
 
 
 
