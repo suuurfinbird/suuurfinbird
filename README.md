@@ -3,7 +3,6 @@
 ![github-header-image (13)](https://github.com/suuurfinbird/suuurfinbird/assets/145972187/f2f55d84-eb6a-4ecf-b9d8-f0781eb7a705)
 
 
-🌿 Working at avgust.com
+🌿 Working at avgust.com as R&D engineer
 
-🌱 I’m currently learning ML, Python
-
+🌱 I’m interested in implementing ML and AI in chemical industry and crop protection
