@@ -7,4 +7,4 @@
 
 🌱 I’m interested in implementing ML and AI in chemical industry and agricultural sector
 
-⚒
+⚒ Skills and tools: Python, pandas, SQL, sklearn, xgboost, catboost, matplotlib, statsmodels
