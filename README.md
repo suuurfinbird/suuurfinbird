@@ -6,3 +6,5 @@
 🌿 Working at avgust.com as R&D engineer
 
 🌱 I’m interested in implementing ML and AI in chemical industry and agricultural sector
+
+⚒
