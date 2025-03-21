@@ -8,7 +8,7 @@ I’m currently contributing as a **Middle Data Scientist** at **SBER**, where I
 ---
 
 ### 🌱 Interests  
-I’m passionate about applying **Machine Learning** and **Artificial Intelligence** in:  
+I’m passionate about applying **ML** and **AI** in:  
 - **Insurance Products**: Enhancing risk assessment, pricing models, and customer experience.  
 - **Chemical Industry**: Optimizing processes, predictive maintenance, and quality control.  
 - **Agricultural Sector**: Developing tools for yield prediction, resource optimization, and sustainability.  
@@ -16,12 +16,12 @@ I’m passionate about applying **Machine Learning** and **Artificial Intelligen
 ---
 
 ### ⚒ Skills & Tools  
-Here’s what I bring to the table:  
 - **Programming Languages**: Python  
-- **Data Manipulation & Analysis**: pandas, SQL, statsmodels  
-- **Machine Learning**: scikit-learn, XGBoost, CatBoost  
-- **Data Visualization**: matplotlib  
-
+- **Data Manipulation & Analysis**: pandas, SQL, PySpark, statsmodels  
+- **Machine Learning**: scikit-learn, CatBoost, LightGBM etc.
+- **Data Visualization**: matplotlib, seaborn, Plotly  
+- **Big Data Tools**: Apache Spark, Hive, Hadoop (basic familiarity)   
+- **Other Tools**: Jupyter Notebooks, Docker, CI/CD pipelines 
 ---
 
 Feel free to connect or explore my projects—always open to collaboration and knowledge sharing! ✨
