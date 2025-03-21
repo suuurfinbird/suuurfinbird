@@ -18,7 +18,7 @@ I’m passionate about applying **ML** and **AI** in:
 ### ⚒ Skills & Tools  
 - **Programming Languages**: Python  
 - **Data Manipulation & Analysis**: pandas, SQL, PySpark, statsmodels  
-- **Machine Learning**: scikit-learn, CatBoost, LightGBM etc.
+- **Machine Learning**: scikit-learn, CatBoost, LightGBM, LightAutoML etc.
 - **Data Visualization**: matplotlib, seaborn, Plotly  
 - **Big Data Tools**: Apache Spark, Hive, Hadoop (basic familiarity)   
 - **Other Tools**: Jupyter Notebooks, Docker, CI/CD pipelines 
